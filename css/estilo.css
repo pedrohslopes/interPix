@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.topo {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente os elementos */
+    justify-content: space-between;
+}

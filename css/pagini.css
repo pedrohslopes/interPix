@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8%;
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    margin-inline: 42%;
+    background-color: #fc7a04;
+    border-radius: 3%;
+}
+
+.botao a{
+    margin-bottom: 5%;
+    margin-top: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #FFFF;
+}
